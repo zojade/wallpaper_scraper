@@ -1,0 +1,7 @@
+# Ignore PyInstaller output
+/dist/
+/build/
+/__pycache__/
+/*.spec
+*.exe
+*.ico
